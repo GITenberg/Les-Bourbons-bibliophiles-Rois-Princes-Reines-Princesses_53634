@@ -1,5 +1,5 @@
 _repo: Les-Bourbons-bibliophiles-Rois-Princes-Reines-Princesses_53634
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Vicaire, Georges
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '47450'
     url: http://www.gutenberg.org/2009/agents/47450
+covers:
+- cover_type: archival
+  image_path: 53634-h/images/cover.jpg
 creator:
   author:
     agent_name: Asse, Eugène
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '47465'
     url: http://www.gutenberg.org/2009/agents/47465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53634#Les-Bourbons-bibliophiles-Rois-Princes-Reines-Princesses
 gutenberg_bookshelf:
 - FR Histoire
 - FR Biographie, Mémoires, Journal intime, Correspondance
